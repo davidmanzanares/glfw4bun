@@ -1,0 +1,6 @@
+{
+    "name": "glfw3",
+    "headerFile": "/usr/include/GLFW/glfw3.h",
+    "libraryPath": "/usr/lib/x86_64-linux-gnu/libglfw.so.3",
+    "preprocessorExtra": "-include /usr/include/vulkan/vulkan.h"
+}
