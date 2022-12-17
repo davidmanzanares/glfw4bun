@@ -13,3 +13,7 @@ However, if you want to regenerate them, use:
 `
 makebindingsforbun glfw_binding_config.json
 `
+
+## Example
+
+See [vulkan_bun_helloworld](https://github.com/davidmanzanares/vulkan_bun_helloworld)
